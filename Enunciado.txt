@@ -1,7 +1,7 @@
 Tareas a realizar
 Se requiere realizar una estructura básica de un software de gestión interno para una empresa. El mismo debe contar con las siguientes características a nivel estructura:
 - Pantalla de Login. La misma debe estar dividida en 2 a su ancho. Sobre la mitad izquierda, el formulario de Login. Sobre la mitad derecha, una imagen o textura de fondo.
-- Una vez logueado, armar una estructura que contenga un panel izquierdo de menu, un encabezado sobre la derecha que contenga un buscador, y un icono con el nombre del usuario logueado, y debajo el contenido de cada modulo.
+- Una vez logueado, armar una estructura que contenga un panel izquierdo de menu, que tenga arriba el logo adjuntado en este correo, en formato SVG y debajo las opciones de menu; un encabezado sobre la derecha que contenga un buscador, y un icono con el nombre del usuario logueado, y debajo el contenido de cada modulo.
 
 
 Funcionalidades que debe presentar el software
